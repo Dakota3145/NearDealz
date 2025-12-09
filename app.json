@@ -2,7 +2,7 @@
   "expo": {
     "name": "NearDealz",
     "slug": "NearDealz",
-    "version": "1.0.0",
+    "version": "8.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
